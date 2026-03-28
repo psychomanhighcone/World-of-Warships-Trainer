@@ -35,6 +35,7 @@ Infinite Consumables | F5 | Unlimited smoke, repair, sonar, radar, and fighter u
 Reveal Smoke / Wallhack | F6 | Highlights enemy ships even inside smoke screens | Helps with positioning awareness in co-op or operations  
 Super Speed / Maneuver Boost | F7 | Increased ship speed and rudder shift time | Useful for quick map traversal in training  
 Unlock All Camouflages & Flags | F8 | Instant access to all visual cosmetics | Purely visual; no impact on gameplay  
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3b7bc997-83ec-4c60-8036-46e97198d818" />
 
 ### Compatibility
 
